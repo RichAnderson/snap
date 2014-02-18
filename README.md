@@ -1,4 +1,0 @@
-snap
-====
-
-SLCC Snap project
